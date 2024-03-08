@@ -29,7 +29,7 @@ Feel free to explore my work, provide feedback, or reach out if you're intereste
 
 I'm actively seeking opportunities to collaborate, discuss ideas, and engage with the vibrant computer vision community. You can find me on the following platforms:
 
-[LinkedIn](https://www.linkedin.com/in/dushreddyb/)
+[LinkedIn] (https://www.linkedin.com/in/dushreddyb/)
 Email: [dushyanthreddy5089@gmail.com]
 
 I look forward to connecting with fellow researchers, developers, and enthusiasts who share my passion for computer vision and its transformative potential.
