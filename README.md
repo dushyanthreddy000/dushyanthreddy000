@@ -17,8 +17,8 @@ Computer Vision: CNN(VGG19,ResNet),GAN's,VAE's,Diffusion Models,Transformers,Sta
 
 In this repository, you'll find a collection of my projects, research code, and contributions to open-source initiatives. I'm passionate about collaborating with others, sharing knowledge, and pushing the boundaries of what's possible in computer vision.
 
-Feel free to explore my work, provide feedback, or reach out if you're interested in collaborating on exciting projects. I'm always eager to learn from others and expand my horizons.
-[Kaggle] (https://www.kaggle.com/dushyanthreddybonthu)
+Feel free to explore my work, provide feedback, or reach out if you're interested in collaborating on exciting projects. I'm always eager to learn from others and expand my horizons.<br />
+[Kaggle] (https://www.kaggle.com/dushyanthreddybonthu) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ## Tech blogs
 Coming Soon :) <br />
