@@ -8,10 +8,10 @@ Deep Learning for Computer Vision: Exploring the cutting-edge techniques and arc
 
 
 ## Skills
-Programming Languages: Python, C++
-Frameworks & Libraries: Pandas,Numpy,Scipy,Scikit-learn,OpenCV,PyTorch
-Machine Learning: Logistic Regression,Decision Tree,Random Forest,XGBoost,CatBoost,LightGBM,KNN,SVM,K-Means,PCA.
-Computer Vision: CNN(VGG19,ResNet),GAN's,VAE's,Diffusion Models,Transformers,Stable Diffusion
+. Programming Languages: Python, C++
+. Frameworks & Libraries: Pandas,Numpy,Scipy,Scikit-learn,OpenCV,PyTorch
+. Machine Learning: Logistic Regression,Decision Tree,Random Forest,XGBoost,CatBoost,LightGBM,KNN,SVM,K-Means,PCA
+. Computer Vision: CNN(VGG19,ResNet),GAN's,VAE's,Diffusion Models,Transformers,Stable Diffusion
 
 ## Projects and Contributions
 
