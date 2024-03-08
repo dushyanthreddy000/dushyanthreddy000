@@ -21,7 +21,7 @@ In this repository, you'll find a collection of my projects, research code, and 
 Feel free to explore my work, provide feedback, or reach out if you're interested in collaborating on exciting projects. I'm always eager to learn from others and expand my horizons.
 
 ## Tech blogs
-Coming Soon :)
+Coming Soon :) <br />
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ## Certifications
