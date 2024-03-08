@@ -19,7 +19,8 @@ In this repository, you'll find a collection of my projects, research code, and 
 
 Feel free to explore my work, provide feedback, or reach out if you're interested in collaborating on exciting projects. I'm always eager to learn from others and expand my horizons.<br />
 
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)(https://www.kaggle.com/dushyanthreddybonthu)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)(https://www.kaggle.com/dushyanthreddybonthu) <br />
+[Hugging Face] (https://huggingface.co/dushyanthreddy1)
 
 ## Tech blogs
 Coming Soon :) <br />
