@@ -23,7 +23,7 @@ Feel free to explore my work, provide feedback, or reach out if you're intereste
 
 [AWS Certified Machine Learning – Specialty] (https://www.credly.com/earner/earned/badge/7399d27e-c547-4824-91c4-1daa83496bad)
 [AWS Certified: Data Engineer – Associate] (https://www.credly.com/badges/7fdf5320-a1e5-417e-8278-a93bfabb1b55/)
-[Databricks Certified Data Engineer Associate] (https://credentials.databricks.com/ae2bc8a2-683c-48e7-b94f-1123f74227e8#gs.63iw4v)
+[Databricks Certified DE Associate] (https://credentials.databricks.com/ae2bc8a2-683c-48e7-b94f-1123f74227e8#gs.63iw4v)
 
 ## Let's Connect!
 
