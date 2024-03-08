@@ -3,7 +3,6 @@
 A passionate and driven grad student with a strong background in C++,Python,Statistics,Machine Learning,Computer vision. I'm thrilled to embark on this exciting journey of academic research and exploration.Throughout my academic pursuits, I've developed a deep fascination for the field of computer vision and its vast applications in Autonomous vehicle domain.Some of the skills i enjoy working with are 3D reconstruction and Diffusion Models, I've honed my skills in tackling complex challenges and devising innovative solutions.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dushyanthreddy000)](https://github.com/anuraghazra/github-readme-stats)
 
-(img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/")
 
 ## Research Interests
 Deep Learning for Computer Vision: Exploring the cutting-edge techniques and architectures, Transformers, and generative adversarial networks (GANs), for tasks like image generation, and Depth Estimation. <br />
@@ -23,6 +22,7 @@ Feel free to explore my work, provide feedback, or reach out if you're intereste
 
 ## Tech blogs
 Coming Soon :)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ## Certifications
 
