@@ -19,6 +19,9 @@ In this repository, you'll find a collection of my projects, research code, and 
 
 Feel free to explore my work, provide feedback, or reach out if you're interested in collaborating on exciting projects. I'm always eager to learn from others and expand my horizons.
 
+## Tech blogs
+Coming Soon :)
+
 ## Certifications
 
 [AWS Certified Machine Learning – Specialty] (https://www.credly.com/earner/earned/badge/7399d27e-c547-4824-91c4-1daa83496bad) <br />
