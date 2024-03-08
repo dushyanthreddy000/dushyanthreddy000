@@ -1,7 +1,7 @@
 ### Hi I'm Dushyanth Reddy 👋 💻 [Aspiring Computer Vision Engineer] from San Francisco,CA,United States
 
-A passionate and driven grad student,graduated in (https://luddy.indiana.edu/index.html) with a strong background in C++,Python,Statistics,Machine Learning,Computer vision. I'm thrilled to embark on this exciting journey of academic research and exploration.Throughout my academic pursuits, I've developed a deep fascination for the field of computer vision and its vast applications in Autonomous vehicle domain.Some of the skills i enjoy working with are 3D reconstruction and Diffusion Models, I've honed my skills in tackling complex challenges and devising innovative solutions.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dushyanthreddy000)](https://github.com/anuraghazra/github-readme-stats)
+A passionate and driven grad student,graduated in Data Science (https://luddy.indiana.edu/index.html) with a strong background in C++,Python,Statistics,Machine Learning,Computer vision. I'm thrilled to embark on this exciting journey of academic research and exploration.Throughout my academic pursuits, I've developed a deep fascination for the field of computer vision and its vast applications in Autonomous vehicle domain.Some of the skills i enjoy working with are 3D reconstruction and Diffusion Models, I've honed my skills in tackling complex challenges and devising innovative solutions.  <br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dushyanthreddy000)](https://github.com/anuraghazra/github-readme-stats) <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyanthreddy000&hide_progress=true)
 
 ## Research Interests
