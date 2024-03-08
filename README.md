@@ -8,10 +8,10 @@ Deep Learning for Computer Vision: Exploring the cutting-edge techniques and arc
 
 
 ## Skills
-. Programming Languages: Python, C++ <br />
-. Frameworks & Libraries: Pandas,Numpy,Scipy,Scikit-learn,OpenCV,PyTorch
-. Machine Learning: Logistic Regression,Decision Tree,Random Forest,XGBoost,CatBoost,LightGBM,KNN,SVM,K-Means,PCA
-. Computer Vision: CNN(VGG19,ResNet),GAN's,VAE's,Diffusion Models,Transformers,Stable Diffusion
+Programming Languages: Python, C++ <br />
+Frameworks & Libraries: Pandas,Numpy,Scipy,Scikit-learn,OpenCV,PyTorch <br />
+Machine Learning: Logistic Regression,Decision Tree,Random Forest,XGBoost,CatBoost,LightGBM,KNN,SVM,K-Means,PCA <br />
+Computer Vision: CNN(VGG19,ResNet),GAN's,VAE's,Diffusion Models,Transformers,Stable Diffusion <br />
 
 ## Projects and Contributions
 
@@ -21,9 +21,9 @@ Feel free to explore my work, provide feedback, or reach out if you're intereste
 
 ## Certifications
 
-[AWS Certified Machine Learning – Specialty] (https://www.credly.com/earner/earned/badge/7399d27e-c547-4824-91c4-1daa83496bad)
-[AWS Certified Data Engineer – Associate] (https://www.credly.com/badges/7fdf5320-a1e5-417e-8278-a93bfabb1b55/)
-[Databricks Certified Data Engineer - Associate] (https://credentials.databricks.com/ae2bc8a2-683c-48e7-b94f-1123f74227e8#gs.63iw4v)
+[AWS Certified Machine Learning – Specialty] (https://www.credly.com/earner/earned/badge/7399d27e-c547-4824-91c4-1daa83496bad) <br />
+[AWS Certified Data Engineer – Associate] (https://www.credly.com/badges/7fdf5320-a1e5-417e-8278-a93bfabb1b55/) <br />
+[Databricks Certified Data Engineer - Associate] (https://credentials.databricks.com/ae2bc8a2-683c-48e7-b94f-1123f74227e8#gs.63iw4v) <br />
 
 ## Let's Connect!
 
